@@ -1,5 +1,5 @@
 {
-  "name": "ka-cosmetics-server",
+  "name": "industrieK",
   "version": "1.0.0",
   "description": "Serveur admin KA Cosmetics (Supabase, commande vocale)",
   "type": "module",
